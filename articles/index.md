@@ -17,4 +17,4 @@ Git에 사용 방법에 대해서 알고 있다고 가정하고 실습을 진행
 
 Have fun!
 
-39div 119regt c4imanager, 2015-05-01 ~ 2019-04-30 Jo Geun Sik.
+39div 119regt c4imanager, 2015-05-01 ~ 2019-04-30 Jo Geun Sik..
